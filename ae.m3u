@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_01_hd.png",BeIN Sports 1 HD
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_02_hd.png",BeIN Sports 2 HD
+http://200.26.188.66/live/aHBCJPGQ/aQdgWWp/140923.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_03_hd.png",BeIN Sports 3 HD
+http://200.26.188.66/live/aHBCJPGQ/aQdgWWp/140902.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_04_hd.png",BeIN Sports 4 HD
+http://200.26.188.66/live/aHBCJPGQ/aQdgWWp/428244.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_05_hd.png",BeIN Sports 5 HD
+http://dream4k.co:80/live/109219152973105/fxnfo9ofnx/217422.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_06_hd.png",BeIN Sports 6 HD
+http://200.26.188.66/live/aHBCJPGQ/aQdgWWp/428228.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_07_hd.png",BeIN Sports 7 HD
+http://200.26.188.66/live/aHBCJPGQ/aQdgWWp/140903.m3u8
+#EXTINF:-1 tvg-logo="",BeIN Sports 8 HD
+http://200.26.188.66/live/aHBCJPGQ/aQdgWWp/428245.m3u8
+#EXTINF:-1 tvg-logo="",الجزيرة
+https://live.alarabiya.net/alarabiapublish/alar
