@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version":V6.9.20-RC93 (645),
   "TunnelType": "CUSTOM",
   "Connection": {
     "Server": "brap.hackkcah.uk",
