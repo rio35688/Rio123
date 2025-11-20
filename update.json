@@ -1,5 +1,23 @@
 {
-  "force": true,
-  "version": "1.2.0",
-  "url": "https://github.com/yourname/yourrepo/releases/latest"
+  "server": {
+    "address": "brap.hackkcah.uk",
+    "port": 80,
+    "username": "premium1433",
+    "password": "GYetFPLgQN"
+  },
+
+  "host": "help.snapchat.com:80",
+
+  "payload": [
+    "GET wss://[host]/ HTTP/1.1",
+    "Host: [host]",
+    "expect: 100-continue",
+    "Upgrade: websocket",
+    ""
+  ],
+
+  "info": {
+    "author": "Hamza",
+    "update": "هذا الكونفيغ يتم تحديثه تلقائياً عبر رابط RAW"
+  }
 }
