@@ -1,4 +1,6 @@
 {
-  "version": V6.9.20-RC93 (645),
-  "config_url": "https://raw.githubusercontent.com/username/repo/main/config.hc"
+  "allowed_days": 10,
+  "message": "التطبيق يحتاج لتحديث",
+  "update_url": "https://play.google.com/store/apps/details?id=your.package.name",
+  "min_version": "1.0.0"
 }
